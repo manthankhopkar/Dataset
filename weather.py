@@ -1,3 +1,4 @@
+import streamlit as st
 import requests
 
 api_key = "979dc16c3da0c2768c45bedf6937985e" # Using the previously defined API key
